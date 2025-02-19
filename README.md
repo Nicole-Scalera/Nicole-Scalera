@@ -39,17 +39,17 @@
 <p>
 
 <details>
-<summary style="font-size: 15px;"><b>📫 How to reach me: ...</b></summary>
+<summary style="font-size: 15px;"><b>⚡ Fun fact ...</b></summary>
 <p>
-<p style="font-size: 15px;">Message me here, or visit my <a href="https://nicolescalera.com/">website</a> or <a href="https://www.linkedin.com/in/nicolescalera/">LinkedIn</a>.</p>
+<p style="font-size: 15px;">I built my first game in Java at 10 years old! It was a text-based adventure story named Firebrand. Players assume the role of RIchard, a sleeper spy agent whose memory has been fabricated in order make him the most effective soldier. Richard awakes one night to find an assassin trying to kill him. Against all odds, he must escape capture, while also discovering the secrets of his dark past.</p>
 </details>
 
 <p>
 
 <details>
-<summary style="font-size: 15px;"><b>⚡ Fun fact ...</b></summary>
+<summary style="font-size: 15px;"><b>📫 Contact me ...</b></summary>
 <p>
-<p style="font-size: 15px;">I built my first game in Java at 10 years old! It was a text-based adventure story named Firebrand. Players assume the role of RIchard, a sleeper spy agent whose memory has been fabricated in order make him the most effective soldier. Richard awakes one night to find an assassin trying to kill him. Against all odds, he must escape capture, while also discovering the secrets of his dark past.</p>
+<p style="font-size: 15px;">Message me here, or visit my <a href="https://nicolescalera.com/">website</a> or <a href="https://www.linkedin.com/in/nicolescalera/">LinkedIn</a>.</p>
 </details>
 
 <br>
