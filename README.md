@@ -1,7 +1,9 @@
 <!-- Overview -->
 <h1>Hello, World! 👋</h1>
 
-<p style="font-size: 15px;">My name is Nicole, and welcome to my GitHub!</p>
+<p style="font-size: 15px;">My name is Nicole, and welcome to my GitHub! :octocat:</p>
+
+Octocat Again! :octocat:
 
 <br>
 
