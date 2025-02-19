@@ -3,8 +3,6 @@
 
 <p style="font-size: 15px;">My name is Nicole, and welcome to my GitHub! :octocat:</p>
 
-Octocat Again! :octocat:
-
 <br>
 
 <!-- Introduction -->
