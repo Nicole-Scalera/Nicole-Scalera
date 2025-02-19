@@ -1,18 +1,17 @@
 <!-- Overview -->
-<h1>Hello, World! 👋</h1>
-
-<p style="font-size: 15px;">My name is Nicole, and welcome to my GitHub! :octocat:</p>
+# Hello, World! 👋
+My name is Nicole, and welcome to my GitHub! :octocat:
 
 <br>
 
 <!-- Introduction -->
-<h2>Background</h2>
-<p style="font-size: 15px;">I'm a third-year student at <a href="https://www.marist.edu/">Marist University</a> studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining experience in all different <a href="#programming-languages">languages</a> and <a href="#software-tools">software</a> especially those that fuel my passion for game development.</p>
+## Background
+I'm a third-year student at <a href="https://www.marist.edu/">Marist University</a> studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining experience in all different <a href="#programming-languages">languages</a> and <a href="#software-tools">software</a> especially those that fuel my passion for game development.
 
 <br>
 
 <!-- About Me -->
-<h2>About Me</h2>
+## About Me
 
 <details>
 <summary style="font-size: 15px;"><b>🔭 I’m currently working on ...</b></summary>
@@ -55,11 +54,11 @@
 <br>
 
 <!-- Experience, Skills, Tools -->
-<h2>Skills & Experience</h2>
+## Skills & Experience
 
 <!-- Below are a list of the coding languages and software I have experience in. Some I have more exposure to than others. Be sure to check my stats below for a rough overview. -->
 
-<h3 id="programming-languages">Programming Languages</h3>
+### <a name="programming-languages"></a>Programming Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -79,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-<h3 id="software-tools">Software & Tools</h3>
+### <a name="software-tools"></a>Software & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
