@@ -8,6 +8,7 @@ I'm a third-year student at <a href="https://www.marist.edu/">Marist University<
 
 <!-- About Me -->
 ## About Me
+Click any of the following dropdowns for more information. 😎
 
 <details>
 <summary style="font-size: 15px;"><b>🔭 I’m currently working on ...</b></summary>
