@@ -2,13 +2,9 @@
 # Hello, World! 👋
 My name is Nicole, and welcome to my GitHub! :octocat:
 
-<br>
-
 <!-- Introduction -->
 ## Background
 I'm a third-year student at <a href="https://www.marist.edu/">Marist University</a> studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining experience in all different <a href="#programming-languages">languages</a> and <a href="#software-tools">software</a> especially those that fuel my passion for game development.
-
-<br>
 
 <!-- About Me -->
 ## About Me
@@ -50,8 +46,6 @@ I'm a third-year student at <a href="https://www.marist.edu/">Marist University<
 <p>
 <p style="font-size: 15px;">Message me here, or visit my <a href="https://nicolescalera.com/">website</a> or <a href="https://www.linkedin.com/in/nicolescalera/">LinkedIn</a>.</p>
 </details>
-
-<br>
 
 <!-- Experience, Skills, Tools -->
 ## Skills & Experience
