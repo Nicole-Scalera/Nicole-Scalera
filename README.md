@@ -4,7 +4,7 @@ My name is Nicole, and welcome to my GitHub! :octocat:
 
 <!-- Introduction -->
 ## Background
-I'm a third-year student at <a href="https://www.marist.edu/">Marist University</a> studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining experience in all different <a href="#programming-languages">languages</a> and <a href="#software-tools">software</a> especially those that fuel my passion for game development.
+I'm a third-year student at <a href="https://www.marist.edu/">Marist University</a> studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining <a href="#skills-experience">experience</a> in all different languages and software especially those that fuel my passion for game development.
 
 <!-- About Me -->
 ## About Me
@@ -37,7 +37,7 @@ Click any of the following dropdowns for more information. 😎
 <details>
 <summary style="font-size: 15px;"><b>⚡ Fun fact ...</b></summary>
 <p>
-<p style="font-size: 15px;">I built my first game in Java at 10 years old! It was a text-based adventure story named Firebrand. Players assume the role of RIchard, a sleeper spy agent whose memory has been fabricated in order make him the most effective soldier. Richard awakes one night to find an assassin trying to kill him. Against all odds, he must escape capture, while also discovering the secrets of his dark past.</p>
+<p style="font-size: 15px;">I built my first game in Java at 10 years old! It was a text-based adventure story named Firebrand. Players assume the role of Richard, a sleeper spy agent whose memory has been fabricated in order make him the most effective soldier. Richard awakes one night to find an assassin trying to kill him. Against all odds, he must escape capture, while also discovering the secrets of his dark past.</p>
 </details>
 
 <p>
@@ -49,11 +49,11 @@ Click any of the following dropdowns for more information. 😎
 </details>
 
 <!-- Experience, Skills, Tools -->
-## Skills & Experience
+## <a name="skills-experience"></a>Skills & Experience
 
 <!-- Below are a list of the coding languages and software I have experience in. Some I have more exposure to than others. Be sure to check my stats below for a rough overview. -->
 
-### <a name="programming-languages"></a>Programming Languages
+### Programming Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -73,7 +73,7 @@ Click any of the following dropdowns for more information. 😎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-### <a name="software-tools"></a>Software & Tools
+### Software & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
