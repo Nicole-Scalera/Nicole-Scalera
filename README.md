@@ -45,7 +45,7 @@ Click any of the following dropdowns for more information. 😎
 <details>
 <summary style="font-size: 15px;"><b>📫 Contact me ...</b></summary>
 <p>
-<p style="font-size: 15px;">Message me here, or visit my <a href="https://nicolescalera.com/">website</a> or <a href="https://www.linkedin.com/in/nicolescalera/">LinkedIn</a>.</p>
+<p style="font-size: 15px;">Visit my <a href="https://nicolescalera.com/">website</a> or <a href="https://www.linkedin.com/in/nicolescalera/">LinkedIn</a>.</p>
 </details>
 
 <!-- Experience, Skills, Tools -->
