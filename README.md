@@ -13,7 +13,7 @@ Click any of the following dropdowns for more information. 😎
 <details>
 <summary style="font-size: 15px;"><b>🔭 I’m currently working on ...</b></summary>
 <p>
-<p><i><a href="https://github.com/Nicole-Scalera/project-raven">Package Co.</a></i>, a 3D first-person horror game made in Unity. I am one of the lead developers and have constructed the game with C# using JetBrains Rider, and I version controlling the project with GitHub and GitKraken.</p>
+<p><i><a href="https://github.com/Nicole-Scalera/project-raven">Package Co.</a></i>, a 3D first-person horror game made in Unity. I am one of the lead developers and have constructed the game with C# using JetBrains Rider, and I version control the project with GitHub and GitKraken. I also have a deep passionate for project management & code organization, which can be seen in the <a href="https://github.com/Nicole-Scalera/project-raven/blob/main/02%20Docs/00%20Articles/01%20Information/uploading-to-assets.md">articles</a> and <a href="https://github.com/Nicole-Scalera/project-raven/blob/main/02%20Docs/01%20Videos/Issues%20Tutorial.mp4">video tutorials</a> I produce as learning materials for others on my team.</p>
 </details>
 
 <p>
