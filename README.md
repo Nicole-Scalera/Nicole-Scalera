@@ -4,7 +4,9 @@ My name is Nicole, and welcome to my GitHub! :octocat:
 
 <!-- Introduction -->
 ## Background
-I'm a senior at <a href="https://www.marist.edu/">Marist University</a> ('26) studying for a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> with a concentration in Technical Development & Programming, as well as a minor in Computer Science. I have been coding since the ripe age of ten, gaining <a href="#skills-experience">experience</a> in all different languages and software especially those that fuel my passion for game development.
+I am a game programmer with a B.S. in <a href="https://www.marist.edu/games-emerging-media">Games & Emerging Media</a> from <a href="https://www.marist.edu/">Marist University</a>, concentrating in Technical Development & Programming and minoring in Computer Science.
+
+I have been coding since the ripe age of ten, gaining <a href="#skills-experience">experience</a> in all different languages and software especially those that fuel my passion for game development.
 
 <!-- About Me -->
 ## About Me
