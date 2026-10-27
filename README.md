@@ -95,8 +95,53 @@ Click any of the following dropdowns for more information. 😎
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
 
-<!-- WIP -->
-<!-- <div style="margin-top: 50px;">
-<h2>Stats</h2>
-Below are some of my coding stats on GitHub. I've been coding much longer than I've been tracking on GitHub, so this mainly encompasses the past few years.
-</div> -->
+<!-- Certifications & Badges -->
+## <a name="certifications-badges"></a>Certifications & Badges
+
+<table>
+  <tr>
+    <td valign="middle">
+      <h3>Certified Professional in Managing AI (PMI-CPMAI)</h3>
+      <p>
+        <strong>Issuer:</strong> Project Management Institute (PMI)<br>
+        <strong>Date:</strong> September 2026<br>
+        <strong>Credential ID:</strong> <a href="https://www.credly.com/badges/a5d4fce3-7a82-4114-9726-5618cefcb43c/public_url">4515854</a><br>
+      </p>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/a5d4fce3-7a82-4114-9726-5618cefcb43c/public_url">
+        <img src="./assets/cpmai-badge.png" alt="PMI-CPMAI Badge" width="110">
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td valign="middle">
+      <h3>GitHub Foundations (GH-900)</h3>
+      <p>
+        <strong>Issuer:</strong> Microsoft<br>
+        <strong>Date:</strong> September 2026<br>
+        <strong>Credential ID:</strong> <a href="https://learn.microsoft.com/en-us/users/nicolescalera/credentials/c16ffcc6264fe057">C16FFCC6264FE057</a><br>
+      </p>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://learn.microsoft.com/en-us/users/nicolescalera/credentials/c16ffcc6264fe057">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations Badge" width="110">
+      </a>
+    </td>
+  </tr>
+      <tr>
+    <td valign="middle">
+      <h3>Adult and Pediatric First Aid/CPR/AED</h3>
+      <p>
+        <strong>Issuer:</strong> American Red Cross<br>
+        <strong>Date:</strong> May 2025<br>
+        <strong>Credential ID:</strong> <a href="https://www.redcross.org/take-a-class/qrcode?certnumber=01U9L03">01U9L03</a><br>
+      </p>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.redcross.org/take-a-class/qrcode?certnumber=01U9L03">
+        <img src="./assets/American Red Cross Button.svg" alt="CPR Badge" width="110">
+      </a>
+    </td>
+  </tr>
+</table>
