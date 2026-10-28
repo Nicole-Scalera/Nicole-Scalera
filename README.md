@@ -100,7 +100,7 @@ Click any of the following dropdowns for more information. 😎
 
 <table>
   <tr valign="middle">
-    <td>
+    <td valign="top">
       <h3>Certified Professional in Managing AI (PMI-CPMAI)</h3>
       <p>
         <strong>Project Management Institute (PMI)</strong>, September 2026<br>
