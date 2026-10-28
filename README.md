@@ -99,8 +99,9 @@ Click any of the following dropdowns for more information. 😎
 ## <a name="certifications-badges"></a>Certifications & Badges
 
 <table>
-  <tr>
-    <td valign="top">
+  <!-- Certified Professional in Managing AI (PMI-CPMAI) -->
+  <tr valign="middle">
+    <td>
       <strong>Certified Professional in Managing AI (PMI-CPMAI)</strong>
         <ul>
           <li><strong>Project Management Institute (PMI)</strong>, September 2026</li>
@@ -114,6 +115,7 @@ Click any of the following dropdowns for more information. 😎
       </a>
     </td>
   </tr>
+  <!-- GitHub Foundations (GH-900) -->
   <tr valign="middle">
     <td>
       <strong>GitHub Foundations (GH-900)</strong>
@@ -129,6 +131,7 @@ Click any of the following dropdowns for more information. 😎
       </a>
     </td>
   </tr>
+  <!-- Adult and Pediatric First Aid/CPR/AED -->
   <tr valign="middle">
     <td>
       <strong>Adult and Pediatric First Aid/CPR/AED</strong>
