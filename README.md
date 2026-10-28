@@ -132,7 +132,7 @@ Click any of the following dropdowns for more information. 😎
       <tr>
     <td valign="middle">
       <h3>Adult and Pediatric First Aid/CPR/AED</h3>
-      <p>
+      <p valign="middle">
         <strong>Issuer:</strong> American Red Cross<br>
         <strong>Date:</strong> May 2025<br>
         <strong>Credential ID:</strong> <a href="https://www.redcross.org/take-a-class/qrcode?certnumber=01U9L03">01U9L03</a>
