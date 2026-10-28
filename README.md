@@ -105,7 +105,7 @@ Click any of the following dropdowns for more information. 😎
       <p>
         <strong>Issuer:</strong> Project Management Institute (PMI)<br>
         <strong>Date:</strong> September 2026<br>
-        <strong>Credential ID:</strong> <a href="https://www.credly.com/badges/a5d4fce3-7a82-4114-9726-5618cefcb43c/public_url">4515854</a><br>
+        <strong>Credential ID:</strong> <a href="https://www.credly.com/badges/a5d4fce3-7a82-4114-9726-5618cefcb43c/public_url">4515854</a>
       </p>
     </td>
     <td align="center" valign="middle">
@@ -120,7 +120,7 @@ Click any of the following dropdowns for more information. 😎
       <p>
         <strong>Issuer:</strong> Microsoft<br>
         <strong>Date:</strong> September 2026<br>
-        <strong>Credential ID:</strong> <a href="https://learn.microsoft.com/en-us/users/nicolescalera/credentials/c16ffcc6264fe057">C16FFCC6264FE057</a><br>
+        <strong>Credential ID:</strong> <a href="https://learn.microsoft.com/en-us/users/nicolescalera/credentials/c16ffcc6264fe057">C16FFCC6264FE057</a>
       </p>
     </td>
     <td align="center" valign="middle">
@@ -135,7 +135,7 @@ Click any of the following dropdowns for more information. 😎
       <p>
         <strong>Issuer:</strong> American Red Cross<br>
         <strong>Date:</strong> May 2025<br>
-        <strong>Credential ID:</strong> <a href="https://www.redcross.org/take-a-class/qrcode?certnumber=01U9L03">01U9L03</a><br>
+        <strong>Credential ID:</strong> <a href="https://www.redcross.org/take-a-class/qrcode?certnumber=01U9L03">01U9L03</a>
       </p>
     </td>
     <td align="center" valign="middle">
