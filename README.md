@@ -99,7 +99,7 @@ Click any of the following dropdowns for more information. 😎
 ## <a name="certifications-badges"></a>Certifications & Badges
 
 <table>
-  <tr valign="middle">
+  <tr>
     <td valign="top">
       <h3>Certified Professional in Managing AI (PMI-CPMAI)</h3>
       <p>
@@ -108,7 +108,7 @@ Click any of the following dropdowns for more information. 😎
       </p>
     </td>
     <!-- PMI-CPMAI Icon -->
-    <td align="center">
+    <td align="center" valign="middle">
       <a href="https://www.credly.com/badges/a5d4fce3-7a82-4114-9726-5618cefcb43c/public_url">
         <img src="./assets/cpmai-badge.png" alt="PMI-CPMAI Badge" width="80">
       </a>
